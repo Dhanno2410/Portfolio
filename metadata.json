@@ -1,0 +1,5 @@
+{
+  "name": "AI-Powered Personal Portfolio",
+  "description": "A sleek, modern personal portfolio website built with React, Tailwind CSS, and powered by a Gemini AI assistant to answer questions about my skills and projects.",
+  "requestFramePermissions": []
+}
